@@ -1,0 +1,67 @@
+{
+  "name": "IOLabs Plugin Mirror",
+  "homepage": "http://packages.iolabs.nl",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/woocommerce-ajax-layered-nav.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/woocommerce-cart-tab.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/woocommerce-currency-converter-widget.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/woocommerce-dropdown-cart.git"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/woocommerce-menu-bar-cart"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/woocommerce-product-enquiry-form"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/yith-woocommerce-added-to-cart-popup-premium"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/yith-woocommerce-ajax-product-filter-premium"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/yith-woocommerce-category-accordion-premium"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/yith-woocommerce-customize-myaccount-page"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/gravityforms"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/gravityformsuserregistration"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/woocommerce-eu-vat-number"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/advanced-custom-fields-pro"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/woocommerce-table-rate-shipping"
+    }
+  ],
+  "require-all": true
+}
