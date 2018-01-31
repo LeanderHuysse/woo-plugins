@@ -61,6 +61,14 @@
     {
       "type": "vcs",
       "url": "https://github.com/LeanderHuysse/woocommerce-table-rate-shipping"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/iolabs-woo-livesearch"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/iolabs-advanced-search"
     }
   ],
   "require-all": true
