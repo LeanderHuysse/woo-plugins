@@ -69,6 +69,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/LeanderHuysse/iolabs-advanced-search"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/woocommerce-additional-fees"
     }
   ],
   "require-all": true
