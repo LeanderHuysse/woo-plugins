@@ -85,6 +85,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/LeanderHuysse/wordpress-seo-premium"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/productfilter"
     }
   ],
   "require-all": true
