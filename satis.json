@@ -73,6 +73,14 @@
     {
       "type": "vcs",
       "url": "https://github.com/LeanderHuysse/woocommerce-additional-fees"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/wpseo-woocommerce"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/yith-woocommerce-multi-step-checkout-premium"
     }
   ],
   "require-all": true
