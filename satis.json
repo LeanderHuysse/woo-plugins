@@ -89,6 +89,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/LeanderHuysse/productfilter"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/woocommerce-table-rate-shipping"
     }
   ],
   "require-all": true
