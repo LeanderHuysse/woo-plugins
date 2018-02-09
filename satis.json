@@ -93,6 +93,10 @@
     {
       "type": "vcs",
       "url": "https://github.com/LeanderHuysse/woocommerce-table-rate-shipping"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/LeanderHuysse/yith-woocommerce-catalog-mode"
     }
   ],
   "require-all": true
